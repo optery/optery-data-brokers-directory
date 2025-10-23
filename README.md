@@ -7,10 +7,8 @@ Welcome to Optery's open-source directory of data brokers, the largest of its ki
 This directory contains comprehensive information about data brokers that Optery covers, including:
 
 - Contact information (websites, emails)
-- Opt-out URLs and step-by-step opt-out guides
-- Data collection and sharing methods
-- Categories of data collected
-- CCPA and GDPR coverage status
+- Opt-out URLs and Links to step-by-step opt-out guides
+- Country, Type, Average Removal Days
 
 Note: Not every data broker entry will have complete information for all fields.
 
