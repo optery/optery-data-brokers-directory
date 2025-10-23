@@ -1,6 +1,6 @@
 # Data Broker Directory
-Generated on: 2025-10-22 21:40:57
-Total Data Brokers: 642
+Generated on: 2025-10-23 07:31:50
+Total Data Brokers: 649
 
 ## Table of Contents
 - [33 Mile Radius](#21022)
@@ -15,6 +15,7 @@ Total Data Brokers: 642
 - [AWL](#21009)
 - [Acxiom](#21402)
 - [Ad Direct](#20761)
+- [Adapt.io](#24227)
 - [AddressSearch.com](#21422)
 - [Addresses.com](#21239)
 - [Adstra (American List Counsel)](#18631)
@@ -66,6 +67,7 @@ Total Data Brokers: 642
 - [BeenVerified](#21447)
 - [Belardi Wong](#20996)
 - [Best History Websites](#22174)
+- [Big Village](#20988)
 - [Billtrust](#20748)
 - [Birdeye](#21080)
 - [Bizarchive](#19498)
@@ -94,6 +96,8 @@ Total Data Brokers: 642
 - [Catalyze AI](#20745)
 - [CellRevealer](#21226)
 - [Censia](#20983)
+- [Centeda](#21186)
+- [Centeda](#21186)
 - [CheckPeople](#21180)
 - [Checksecrets](#18609)
 - [Choreograph](#20982)
@@ -151,7 +155,6 @@ Total Data Brokers: 642
 - [Datanyze](#21145)
 - [Datasys](#20954)
 - [Dataveria](#21174)
-- [Datonics](#20952)
 - [DealerSocket](#22212)
 - [DealerX](#20951)
 - [Decide](#20950)
@@ -166,6 +169,7 @@ Total Data Brokers: 642
 - [DexKnows.com](#21158)
 - [DiabloMedia](#20943)
 - [Dice](#20730)
+- [Digdev](#20558)
 - [Digital Media Solutions](#20940)
 - [Digital Viking Media](#20939)
 - [Disco Network](#20728)
@@ -175,8 +179,8 @@ Total Data Brokers: 642
 - [EAB](#20723)
 - [EXLService.com](#20720)
 - [EasyBackgroundChecks](#21227)
-- [EasyPeopleSearch](#21033)
 - [Email Industries](#20683)
+- [EmailTracer](#22213)
 - [Emailmovers](#20934)
 - [Enigma](#20931)
 - [Epsilon](#18630)
@@ -198,7 +202,6 @@ Total Data Brokers: 642
 - [Florida Arrests](#16819)
 - [Florida Residents](#21199)
 - [Florida Voter Directory](#19487)
-- [FloridaCourtRecords.us](#21362)
 - [FloridaParcels.com](#18595)
 - [Focus USA](#21380)
 - [FordDirect](#20953)
@@ -207,6 +210,8 @@ Total Data Brokers: 642
 - [FourthWall](#20917)
 - [Fraiser](#20918)
 - [Free People Directory](#21415)
+- [Free People Directory](#21415)
+- [FreeBackgroundCheck.org](#21407)
 - [FreeBackgroundChecks.com](#21112)
 - [FreePeopleSearch](#21061)
 - [FreePhoneTracer](#21446)
@@ -216,13 +221,12 @@ Total Data Brokers: 642
 - [Gale](#20716)
 - [Georgia Arrests](#16818)
 - [GeorgiaCourtRecords.us](#21360)
-- [GeorgiaWarrantRoundup.com](#19503)
+- [GeorgiaCourtRecords.us](#21360)
 - [Giant Partners](#20717)
 - [Glad I Know](#21115)
 - [GovernmentRegistry.org](#21437)
 - [Grassroots Analytics](#20909)
 - [GrayHair](#20910)
-- [GreatPeopleSearch](#21040)
 - [GroundTruth](#20768)
 - [Growbots](#20691)
 - [H1](#20686)
@@ -235,15 +239,12 @@ Total Data Brokers: 642
 - [IDCrawl](#22236)
 - [IDM](#20899)
 - [IDStrong](#21433)
-- [IQVIA](#20894)
 - [Idaho Arrests](#16831)
 - [IdahoCourtRecords.us](#21357)
 - [Illinois Arrests](#16817)
 - [IllinoisCourtRecords.us](#21352)
-- [IllinoisCourtRecords.us](#21352)
 - [InMobi](#20680)
 - [Indiana Arrests](#16840)
-- [IndianaCourtRecords.us](#21353)
 - [IndianaCourtRecords.us](#21353)
 - [InfoFree](#20897)
 - [InfoPay](#22228)
@@ -252,9 +253,6 @@ Total Data Brokers: 642
 - [Inforver](#21177)
 - [InmatesSearcher](#18619)
 - [InstantCheckSpy](#21026)
-- [InstantCheckmate](#17292)
-- [Intelius](#17293)
-- [IntentMacro](#20596)
 - [IntentMacro](#20596)
 - [Intentgine](#20679)
 - [Intranet Quorum](#20880)
@@ -290,18 +288,20 @@ Total Data Brokers: 642
 - [Lists Direct Mail Solutions](#20577)
 - [Live Data Technologies](#20875)
 - [LiveIntent](#20874)
+- [LiveRamp](#21149)
 - [LizDev](#20574)
 - [Locate-Friend](#21095)
 - [LocateSmarter](#20572)
 - [Louisiana Arrests](#16832)
+- [LouisianaCourtRecords.us](#21349)
 - [M+R](#20872)
 - [M1 Data](#20864)
 - [MATCHBOOK](#20867)
 - [MCH](#20560)
-- [MCH](#20560)
 - [MUGSHOTLOOK](#18600)
 - [Magnite](#20870)
 - [Maine Arrests](#16835)
+- [MaineCourtRecords.us](#21348)
 - [MaineCourtRecords.us](#21348)
 - [Marinus Analytics](#20564)
 - [MarketForce](#20869)
@@ -317,7 +317,6 @@ Total Data Brokers: 642
 - [MediaWallah](#20861)
 - [Mediaocean](#21020)
 - [Melissa](#19492)
-- [Merkle](#20552)
 - [Michigan Arrests](#16814)
 - [Michigan Residents](#21106)
 - [MichiganCourtRecords.us](#21344)
@@ -327,14 +326,15 @@ Total Data Brokers: 642
 - [Minerva](#20863)
 - [Minnesota Arrests](#16813)
 - [MinnesotaCourtRecords.us](#21343)
-- [MinnesotaCourtRecords.us](#21343)
 - [Mississippi Arrests](#16826)
 - [MississippiCourtRecords.us](#21356)
 - [Missouri Arrests](#16847)
 - [MissouriCourtRecords.us](#21355)
 - [Modigie](#20544)
 - [Mogean](#20542)
+- [MoneyBot5000](#23538)
 - [Montana Arrests](#16812)
+- [MontanaCourtRecords.us](#21341)
 - [My Renter Checker](#20540)
 - [MyLife](#17294)
 - [NC Solutions](#20856)
@@ -348,12 +348,12 @@ Total Data Brokers: 642
 - [NeighborWho](#21418)
 - [NetWise](#20855)
 - [Nevada Arrests](#21384)
-- [NevadaCourtRecords.us](#21347)
 - [New Hampshire Arrests](#16811)
 - [New Jersey Arrests](#16810)
 - [New Mexico Arrests](#16809)
 - [New York Arrests](#16827)
 - [NewEnglandFacts](#21225)
+- [NewHampshireCourtRecords.us](#21351)
 - [NewJerseyCourtRecords.us](#21333)
 - [NewMexicoCourtRecords.us](#21335)
 - [NewYorkCourtRecords.us](#21336)
@@ -368,6 +368,7 @@ Total Data Brokers: 642
 - [NorthCarolinaCourtRecords.us](#21345)
 - [NorthCarolinaPublicRecords.org](#21031)
 - [NorthDakotaCourtRecords.us](#21346)
+- [NotariesCalifornia.com](#21434)
 - [NotariesCalifornia.com](#21434)
 - [Novalist](#20534)
 - [NumLookup](#18581)
@@ -407,7 +408,6 @@ Total Data Brokers: 642
 - [People-Search.org](#21194)
 - [PeopleBackgroundCheck](#21220)
 - [PeopleByName](#21409)
-- [PeopleByName](#21409)
 - [PeopleDataLabs](#21054)
 - [PeopleFind.com](#21088)
 - [PeopleFinder](#21223)
@@ -422,13 +422,13 @@ Total Data Brokers: 642
 - [PeopleWhiz.com](#21431)
 - [PeopleWin](#18605)
 - [PeoplefindersDaaS](#20519)
+- [PeoplefindersDaaS](#20519)
 - [Persistent.id](#20741)
 - [PersonSearchers](#18618)
 - [PersonTrust.com](#21086)
 - [Persopo.com](#21184)
-- [Phone Lookup California](#16853)
-- [Phone Lookup Florida](#16854)
 - [PhoneBooks.com](#21438)
+- [PhoneNumberInfo.us](#21338)
 - [PhoneNumberInfo.us](#21338)
 - [PhoneNumbers.org](#18575)
 - [Pipl](#21393)
@@ -445,6 +445,7 @@ Total Data Brokers: 642
 - [PrivateReports](#18621)
 - [PropertyIQ](#18582)
 - [PropertyRadar](#20837)
+- [PropertyReach](#20843)
 - [PropertyRecord.com](#22207)
 - [PropertyRecs](#21374)
 - [Pub360.com](#21168)
@@ -479,7 +480,6 @@ Total Data Brokers: 642
 - [RecordsQuarry](#21038)
 - [RecruitBot](#20832)
 - [Redbird Direct](#20827)
-- [Redfin](#21319)
 - [Redi Data](#20828)
 - [Rehold](#21410)
 - [Remodeling.com](#20824)
@@ -493,8 +493,8 @@ Total Data Brokers: 642
 - [ReversePhoneLookup](#16864)
 - [Rhetorik](#20509)
 - [Rhode Island Arrests](#16806)
-- [RhodeIslandCourtRecord.us](#21337)
 - [RocketReach](#21125)
+- [Round Sky](#20822)
 - [Route](#22123)
 - [SG360](#20501)
 - [STEP2SUCCESS Marketing](#20498)
@@ -507,7 +507,6 @@ Total Data Brokers: 642
 - [Search Quarry](#21430)
 - [SearchPeopleFree](#21224)
 - [SearchPublicRecords.com](#21164)
-- [SearchSystems Public Records](#21428)
 - [SearchSystems Public Records](#21428)
 - [SearchUSAPeople](#21399)
 - [Secretinfo](#18610)
@@ -527,12 +526,13 @@ Total Data Brokers: 642
 - [Sourceit](#20813)
 - [South Carolina Arrests](#16805)
 - [South Dakota Arrests](#16804)
-- [SouthCarolinaCourtRecords.us](#21325)
 - [SouthCarolinaPublicRecords.com](#21029)
+- [SouthDakotaCourtRecords.us](#21327)
 - [SouthDakotaCourtRecords.us](#21327)
 - [Specialists Marketing Services](#20808)
 - [Spectrum Mailing Lists](#20807)
 - [Speedeon Data](#16862)
+- [Spokeo](#17279)
 - [SpyCloud](#20806)
 - [SpyDialer](#18604)
 - [SpyFly](#21178)
@@ -552,6 +552,7 @@ Total Data Brokers: 642
 - [TL1](#20495)
 - [Tapad](#20797)
 - [Telefi](#20496)
+- [Telephone Directories](#21406)
 - [Tennessee Arrests](#16803)
 - [TennesseeCourtRecords.us](#21328)
 - [Terminus](#22162)
@@ -561,6 +562,7 @@ Total Data Brokers: 642
 - [TexasWarrantRoundup.org](#21387)
 - [ThatsThem](#21439)
 - [The Bridge Corp](#20848)
+- [The Yankee Group](#24061)
 - [Thomson Reuters](#20774)
 - [Tinuiti](#20798)
 - [Top4Backgroundchecks](#21107)
@@ -569,10 +571,12 @@ Total Data Brokers: 642
 - [TruePeopleSearch](#17297)
 - [Trustoria](#19490)
 - [TruthFinder](#17298)
+- [TruthFinder](#17298)
 - [TruthRecord](#18599)
 - [TruthViewer](#18620)
 - [Tunnl](#20788)
 - [Tymax Media](#20493)
+- [US Marketing Group](#22188)
 - [US Search](#21242)
 - [USA People Search](#21166)
 - [USADATA](#20491)
@@ -585,11 +589,13 @@ Total Data Brokers: 642
 - [UnitedStatesPhonebook.com](#21413)
 - [Unity](#20492)
 - [Unmask](#17299)
+- [Unmask](#17299)
 - [UpLead](#21124)
 - [Utah Arrests](#16834)
 - [UtahCourtRecords.us](#21329)
 - [VDX.tv](#20718)
 - [VIRTORY](#21098)
+- [Valassis RRD](#20515)
 - [Veeva](#20490)
 - [VenPath](#20787)
 - [Venntel](#20785)
@@ -643,6 +649,7 @@ Total Data Brokers: 642
 - [i360](#20901)
 - [iSpot.tv](#20592)
 - [iWave](#20591)
+- [illumin](#20684)
 - [listsOnline](#20575)
 - [pharosIQ](#20739)
 
@@ -836,6 +843,22 @@ Acxiom is one of the biggest data brokers in the world. It holds an astronomical
 
 ---
 
+<a id='24227'></a>
+## Adapt.io
+
+### Information
+- **Website**: [https://www.adapt.io/](https://www.adapt.io/)
+- **Opt-Out URL**: [https://www.adapt.io/check-my-email](https://www.adapt.io/check-my-email)
+- **Email**: support@adapt.io
+- **Country**: ALL
+- **Type**: B2B Lead Generation
+- **Privacy Score**: 8
+- **Average Removal Days**: 10
+- **Shows Family Names**: No
+- **Optery Support Tier**: Extended
+
+---
+
 <a id='21422'></a>
 ## AddressSearch.com
 
@@ -989,7 +1012,7 @@ AdvancedBackgroundChecks.com is a free people search site with access to billion
 
 ### Information
 - **Website**: [https://www.agedleadstore.com](https://www.agedleadstore.com)
-- **Email**: privacy@agedleadstore.com
+- **Email**: optout@nextwavemarketingstrategies.com
 - **Country**: United States
 - **Type**: B2B Lead Generation
 - **Optery Support Tier**: Core
@@ -1651,6 +1674,22 @@ BeenVerified is a data broker that has access to billions of public records. Bee
 
 ---
 
+<a id='20988'></a>
+## Big Village
+
+### Information
+- **Website**: [https://big-village.com/](https://big-village.com/)
+- **Opt-Out URL**: [https://big-village.com/do-not-sell-or-share-my-personal-information/](https://big-village.com/do-not-sell-or-share-my-personal-information/)
+- **Email**: dpo_US@big-village.com
+- **Country**: United States
+- **Type**: Marketing
+- **Privacy Score**: 7
+- **Average Removal Days**: 30
+- **Shows Family Names**: No
+- **Optery Support Tier**: Core
+
+---
+
 <a id='20748'></a>
 ## Billtrust
 
@@ -1780,7 +1819,7 @@ Bizarchive is a US based business directory containing historical business recor
 - **Privacy Score**: 7
 - **Average Removal Days**: 45
 - **Shows Family Names**: No
-- **Optery Support Tier**: Core
+- **Optery Support Tier**: Extended
 
 ---
 
@@ -2069,6 +2108,38 @@ CellRevealer.com is a website that offers reverse phone lookup services in the U
 
 ---
 
+<a id='21186'></a>
+## Centeda
+
+### Information
+- **Website**: [https://centeda.com/](https://centeda.com/)
+- **Opt-Out URL**: [https://centeda.com/control/privacy](https://centeda.com/control/privacy)
+- **Email**: ccpa@centeda.com
+- **Country**: United States
+- **Type**: People Search Site
+- **Privacy Score**: 5
+- **Average Removal Days**: 2
+- **Shows Family Names**: Yes
+- **Optery Support Tier**: Ultimate
+
+---
+
+<a id='21186'></a>
+## Centeda
+
+### Information
+- **Website**: [https://centeda.com/](https://centeda.com/)
+- **Opt-Out URL**: [https://centeda.com/control/privacy](https://centeda.com/control/privacy)
+- **Email**: ccpa@centeda.com
+- **Country**: United States
+- **Type**: People Search Site
+- **Privacy Score**: 5
+- **Average Removal Days**: 2
+- **Shows Family Names**: Yes
+- **Optery Support Tier**: Ultimate
+
+---
+
 <a id='21180'></a>
 ## CheckPeople
 
@@ -2077,7 +2148,7 @@ CheckPeople provides access to the personal information of just about anyone. Wi
 
 ### Information
 - **Website**: [http://checkpeople.com/](http://checkpeople.com/)
-- **Opt-Out URL**: [https://checkpeople.com/do-not-sell-info](https://checkpeople.com/do-not-sell-info)
+- **Opt-Out URL**: [https://checkpeople.com/opt-out](https://checkpeople.com/opt-out)
 - **Opt-Out Guide**: [https://www.optery.com/checkpeople-how-to-opt-out-and-remove-yourself-from-checkpeople-step-by-step-instructions/](https://www.optery.com/checkpeople-how-to-opt-out-and-remove-yourself-from-checkpeople-step-by-step-instructions/)
 - **Email**: support@checkpeople.com
 - **Country**: United States
@@ -2943,18 +3014,6 @@ TheDataTrust.com is a provider of electoral and voter information. Data Trust ha
 
 ---
 
-<a id='20952'></a>
-## Datonics
-
-### Information
-- **Website**: [https://www.datonics.com/](https://www.datonics.com/)
-- **Email**: privacy@datonics.com
-- **Country**: United States
-- **Type**: Marketing
-- **Optery Support Tier**: Core
-
----
-
 <a id='22212'></a>
 ## DealerSocket
 
@@ -3165,6 +3224,18 @@ DexKnows is a data broker that connects consumers with local businesses, adverti
 
 ---
 
+<a id='20558'></a>
+## Digdev
+
+### Information
+- **Website**: [https://www.digdevdirect.com/](https://www.digdevdirect.com/)
+- **Email**: info@Digdev.com
+- **Country**: United States
+- **Type**: Marketing
+- **Optery Support Tier**: Core
+
+---
+
 <a id='20940'></a>
 ## Digital Media Solutions
 
@@ -3283,21 +3354,6 @@ DexKnows is a data broker that connects consumers with local businesses, adverti
 
 ---
 
-<a id='21033'></a>
-## EasyPeopleSearch
-
-### Information
-- **Website**: [https://easypeoplesearch.com/](https://easypeoplesearch.com/)
-- **Opt-Out URL**: [https://easypeoplesearch.com/remove-my-info](https://easypeoplesearch.com/remove-my-info)
-- **Email**: support@easypeoplesearch.com
-- **Country**: United States
-- **Type**: People Search Site
-- **Privacy Score**: 4
-- **Average Removal Days**: 14
-- **Optery Support Tier**: Ultimate
-
----
-
 <a id='20683'></a>
 ## Email Industries
 
@@ -3307,6 +3363,22 @@ DexKnows is a data broker that connects consumers with local businesses, adverti
 - **Country**: United States
 - **Type**: Marketing
 - **Optery Support Tier**: Core
+
+---
+
+<a id='22213'></a>
+## EmailTracer
+
+### Information
+- **Website**: [http://emailtracer.com/](http://emailtracer.com/)
+- **Opt-Out URL**: [https://emailtracer.com/optout](https://emailtracer.com/optout)
+- **Email**: privacy@emailtracer.com
+- **Country**: United States
+- **Type**: People Search Site
+- **Privacy Score**: 6
+- **Average Removal Days**: 30
+- **Shows Family Names**: No
+- **Optery Support Tier**: Extended
 
 ---
 
@@ -3621,22 +3693,6 @@ Florida Residents is a website that provides a searchable database of historical
 
 ---
 
-<a id='21362'></a>
-## FloridaCourtRecords.us
-
-### Information
-- **Website**: [https://floridacourtrecords.us/](https://floridacourtrecords.us/)
-- **Opt-Out URL**: [https://floridacourtrecords.us/optout/](https://floridacourtrecords.us/optout/)
-- **Email**: privacy@courtrecords.us
-- **Country**: United States
-- **Type**: People Search Site
-- **Privacy Score**: 7
-- **Average Removal Days**: 4
-- **Shows Family Names**: Yes
-- **Optery Support Tier**: Extended
-
----
-
 <a id='18595'></a>
 ## FloridaParcels.com
 
@@ -3746,13 +3802,52 @@ FreePeopleDirectory.com is website that allows access to public records from pho
 
 ---
 
+<a id='21415'></a>
+## Free People Directory
+
+### Description
+FreePeopleDirectory.com is website that allows access to public records from phone indexes, property records, email databases, and consumer indexes belonging to a person anyone can search for anonymously. Simple searches using a name, address or phone number on the FreePeopleDirectory website provides detailed personal information on an individual. If you are concerned about online privacy, Optery can help you scan and remove your exposed private information from websites like FreePeopleDirectory. You can sign up for a free Exposure Scan and tools you can use to remove your information, or you can upgrade to one of our paid subscriptions and let our Opt Out Agents help you with the removals.
+
+### Information
+- **Website**: [http://freepeopledirectory.com](http://freepeopledirectory.com)
+- **Opt-Out URL**: [https://www.freepeopledirectory.com/optout](https://www.freepeopledirectory.com/optout)
+- **Opt-Out Guide**: [https://www.optery.com/freepeopledirectory-com-how-to-opt-out-of-freepeopledirectory-com-step-by-step-instructions/](https://www.optery.com/freepeopledirectory-com-how-to-opt-out-of-freepeopledirectory-com-step-by-step-instructions/)
+- **Country**: United States
+- **Type**: People Search Site
+- **Privacy Score**: 4
+- **Average Removal Days**: 10
+- **Shows Family Names**: Yes
+- **Optery Support Tier**: Core
+
+---
+
+<a id='21407'></a>
+## FreeBackgroundCheck.org
+
+### Description
+FreeBackgroundCheck.org is an online service providing background checks on just about anyone in the United States. Find court cases, personal assets and contact information using the FreeBackgroundCheck site technology that can search through billions of records to find the personal information about millions of individuals. Property addresses, vehicle license plate information, and arrest warrants are among some of the detailed information people and phone number searches retrieve.
+
+### Information
+- **Website**: [https://freebackgroundcheck.org/](https://freebackgroundcheck.org/)
+- **Opt-Out URL**: [https://new-members.freebackgroundcheck.org/removeMyData/](https://new-members.freebackgroundcheck.org/removeMyData/)
+- **Opt-Out Guide**: [https://www.optery.com/freebackgroundcheck-org-how-to-opt-out-of-freebackgroundcheck-org-step-by-step-instructions/](https://www.optery.com/freebackgroundcheck-org-how-to-opt-out-of-freebackgroundcheck-org-step-by-step-instructions/)
+- **Email**: support@freebackgroundcheck.org
+- **Country**: United States
+- **Type**: People Search Site
+- **Privacy Score**: 6
+- **Average Removal Days**: 5
+- **Shows Family Names**: Yes
+- **Optery Support Tier**: Extended
+
+---
+
 <a id='21112'></a>
 ## FreeBackgroundChecks.com
 
 ### Information
 - **Website**: [https://freebackgroundchecks.com/](https://freebackgroundchecks.com/)
 - **Opt-Out URL**: [https://freebackgroundchecks.com/optout/](https://freebackgroundchecks.com/optout/)
-- **Email**: support@freebackgroundchecks.com
+- **Email**: privacy@freebackgroundchecks.com
 - **Country**: United States
 - **Type**: People Search Site
 - **Privacy Score**: 6
@@ -3767,7 +3862,7 @@ FreePeopleDirectory.com is website that allows access to public records from pho
 
 ### Information
 - **Website**: [https://freepeoplesearch.com/](https://freepeoplesearch.com/)
-- **Opt-Out URL**: [https://freepeoplesearch.com/remove-info/](https://freepeoplesearch.com/remove-info/)
+- **Opt-Out URL**: [https://freepeoplesearch.com/opt-out](https://freepeoplesearch.com/opt-out)
 - **Email**: support@freepeoplesearch.com
 - **Country**: United States
 - **Type**: People Search Site
@@ -3877,18 +3972,18 @@ FreePeopleDirectory.com is website that allows access to public records from pho
 
 ---
 
-<a id='19503'></a>
-## GeorgiaWarrantRoundup.com
+<a id='21360'></a>
+## GeorgiaCourtRecords.us
 
 ### Information
-- **Website**: [http://georgiawarrantroundup.com/](http://georgiawarrantroundup.com/)
-- **Opt-Out URL**: [https://members.verifyrecords.com/customer/opt-out](https://members.verifyrecords.com/customer/opt-out)
-- **Email**: support@verifyrecords.com
+- **Website**: [https://georgiacourtrecords.us/](https://georgiacourtrecords.us/)
+- **Opt-Out URL**: [https://georgiacourtrecords.us/optout/](https://georgiacourtrecords.us/optout/)
+- **Email**: privacy@courtrecords.us
 - **Country**: United States
 - **Type**: People Search Site
-- **Privacy Score**: 6
-- **Average Removal Days**: 7
-- **Shows Family Names**: No
+- **Privacy Score**: 7
+- **Average Removal Days**: 4
+- **Shows Family Names**: Yes
 - **Optery Support Tier**: Extended
 
 ---
@@ -3963,21 +4058,6 @@ GladIKnow is a data broker that partners with “information brokers” and othe
 - **Country**: United States
 - **Type**: Marketing
 - **Optery Support Tier**: Core
-
----
-
-<a id='21040'></a>
-## GreatPeopleSearch
-
-### Information
-- **Website**: [http://greatpeoplesearch.com](http://greatpeoplesearch.com)
-- **Opt-Out URL**: [https://greatpeoplesearch.com/remove-my-info](https://greatpeoplesearch.com/remove-my-info)
-- **Email**: support@greatpeoplesearch.com
-- **Country**: United States
-- **Type**: People Search Site
-- **Privacy Score**: 4
-- **Average Removal Days**: 14
-- **Optery Support Tier**: Ultimate
 
 ---
 
@@ -4155,18 +4235,6 @@ IDStrong is an identity monitoring service that offers identity, credit and home
 
 ---
 
-<a id='20894'></a>
-## IQVIA
-
-### Information
-- **Website**: [https://www.iqvia.com/](https://www.iqvia.com/)
-- **Email**: privacyofficer@iqvia.com
-- **Country**: United States
-- **Type**: Marketing
-- **Optery Support Tier**: Core
-
----
-
 <a id='16831'></a>
 ## Idaho Arrests
 
@@ -4230,21 +4298,6 @@ IDStrong is an identity monitoring service that offers identity, credit and home
 
 ---
 
-<a id='21352'></a>
-## IllinoisCourtRecords.us
-
-### Information
-- **Website**: [https://illinoiscourtrecords.us/](https://illinoiscourtrecords.us/)
-- **Opt-Out URL**: [https://illinoiscourtrecords.us/optout/](https://illinoiscourtrecords.us/optout/)
-- **Email**: privacy@courtrecords.us
-- **Country**: United States
-- **Type**: People Search Site
-- **Privacy Score**: 7
-- **Average Removal Days**: 4
-- **Optery Support Tier**: Extended
-
----
-
 <a id='20680'></a>
 ## InMobi
 
@@ -4268,22 +4321,6 @@ IDStrong is an identity monitoring service that offers identity, credit and home
 - **Type**: People Search Site
 - **Privacy Score**: 4
 - **Average Removal Days**: 7
-- **Shows Family Names**: Yes
-- **Optery Support Tier**: Extended
-
----
-
-<a id='21353'></a>
-## IndianaCourtRecords.us
-
-### Information
-- **Website**: [https://indianacourtrecords.us/](https://indianacourtrecords.us/)
-- **Opt-Out URL**: [https://indianacourtrecords.us/optout/](https://indianacourtrecords.us/optout/)
-- **Email**: privacy@courtrecords.us
-- **Country**: United States
-- **Type**: People Search Site
-- **Privacy Score**: 7
-- **Average Removal Days**: 4
 - **Shows Family Names**: Yes
 - **Optery Support Tier**: Extended
 
@@ -4362,7 +4399,7 @@ Infotracer is a people search data broker with a powerful search engine that has
 
 ### Information
 - **Website**: [https://information.com/](https://information.com/)
-- **Opt-Out URL**: [https://information.com/remove-my-info/](https://information.com/remove-my-info/)
+- **Opt-Out URL**: [https://information.com/opt-out](https://information.com/opt-out)
 - **Email**: support@information.com
 - **Country**: United States
 - **Type**: People Search Site
@@ -4422,64 +4459,6 @@ Inforver provides information on almost 80% of adults living in the United State
 - **Average Removal Days**: 45
 - **Shows Family Names**: Yes
 - **Optery Support Tier**: Ultimate
-
----
-
-<a id='17292'></a>
-## InstantCheckmate
-
-### Description
-InstantCheckmate.com is a data broker offering anonymous people searches. Anyone wanting to obtain the personal information of someone needs only their first and last name, and the city or state where that person lives. A simple search on the InstantCheckmate website will reveal a person’s social media profiles, contact information, phone number, location data, names of relatives, criminal records, traffic infractions, death records and much more.
-
-### Information
-- **Website**: [https://www.instantcheckmate.com/](https://www.instantcheckmate.com/)
-- **Opt-Out URL**: [https://www.instantcheckmate.com/privacy-center](https://www.instantcheckmate.com/privacy-center)
-- **Opt-Out Guide**: [https://www.optery.com/instantcheckmate-how-to-opt-out-and-remove-yourself-from-instant-checkmate-step-by-step-instructions/](https://www.optery.com/instantcheckmate-how-to-opt-out-and-remove-yourself-from-instant-checkmate-step-by-step-instructions/)
-- **Opt-Out Video Guide**: [https://www.youtube.com/watch?v=-NXBxzps1uE](https://www.youtube.com/watch?v=-NXBxzps1uE)
-- **Email**: privacy@InstantCheckmate.com
-- **Country**: United States
-- **Type**: People Search Site
-- **Privacy Score**: 7
-- **Average Removal Days**: 5
-- **Shows Family Names**: Yes
-- **Optery Support Tier**: Ultimate
-
----
-
-<a id='17293'></a>
-## Intelius
-
-### Description
-Intelius is an online data broker that collects detailed personal information about everyday people and then sells that information to businesses and individuals.They have services for background checks, reverse phone lookups, reverse address lookups, and public records databases where anyone can obtain current and past home addresses, phone numbers, email addresses, the names of family members and former roommates, criminal records, and much more. Information like this can often be used by hackers, scammers, and stalkers.
-
-### Information
-- **Website**: [https://www.intelius.com/](https://www.intelius.com/)
-- **Opt-Out URL**: [https://www.intelius.com/privacy-center](https://www.intelius.com/privacy-center)
-- **Opt-Out Guide**: [https://www.optery.com/intelius-how-to-opt-out-and-remove-yourself-from-intelius-step-by-step-instructions/](https://www.optery.com/intelius-how-to-opt-out-and-remove-yourself-from-intelius-step-by-step-instructions/)
-- **Opt-Out Video Guide**: [https://www.youtube.com/watch?v=B_26AtFYlWM](https://www.youtube.com/watch?v=B_26AtFYlWM)
-- **Email**: support@mailer.intelius.com
-- **Country**: United States
-- **Type**: People Search Site
-- **Privacy Score**: 7
-- **Average Removal Days**: 14
-- **Shows Family Names**: Yes
-- **Optery Support Tier**: Ultimate
-
----
-
-<a id='20596'></a>
-## IntentMacro
-
-### Information
-- **Website**: [https://intentmacro.com/](https://intentmacro.com/)
-- **Opt-Out URL**: [https://intentmacro.com/ccpa-privacy/](https://intentmacro.com/ccpa-privacy/)
-- **Email**: privacy@intentmacro.com
-- **Country**: ALL
-- **Type**: B2B Lead Generation
-- **Privacy Score**: 7
-- **Average Removal Days**: 45
-- **Shows Family Names**: No
-- **Optery Support Tier**: Core
 
 ---
 
@@ -4967,6 +4946,22 @@ Leadpost is a software company marketing to businesses wanting to gather persona
 
 ---
 
+<a id='21149'></a>
+## LiveRamp
+
+### Information
+- **Website**: [https://liveramp.com/](https://liveramp.com/)
+- **Opt-Out URL**: [https://submit-irm.trustarc.com/services/validation/697ea013-8e66-44aa-94c5-fa9d38dd439c](https://submit-irm.trustarc.com/services/validation/697ea013-8e66-44aa-94c5-fa9d38dd439c)
+- **Email**: consumercare@liveramp.com
+- **Country**: ALL
+- **Type**: Marketing
+- **Privacy Score**: 8
+- **Average Removal Days**: 45
+- **Shows Family Names**: No
+- **Optery Support Tier**: Core
+
+---
+
 <a id='20574'></a>
 ## LizDev
 
@@ -5025,6 +5020,22 @@ Locate-Friend is a people search data broker. Locate-Friend provides phone numbe
 
 ---
 
+<a id='21349'></a>
+## LouisianaCourtRecords.us
+
+### Information
+- **Website**: [https://louisianacourtrecords.us/](https://louisianacourtrecords.us/)
+- **Opt-Out URL**: [https://louisianacourtrecords.us/optout/](https://louisianacourtrecords.us/optout/)
+- **Email**: privacy@courtrecords.us
+- **Country**: United States
+- **Type**: People Search Site
+- **Privacy Score**: 7
+- **Average Removal Days**: 4
+- **Shows Family Names**: Yes
+- **Optery Support Tier**: Extended
+
+---
+
 <a id='20872'></a>
 ## M+R
 
@@ -5055,18 +5066,6 @@ Locate-Friend is a people search data broker. Locate-Friend provides phone numbe
 ### Information
 - **Website**: [https://www.matchbookdata.com/](https://www.matchbookdata.com/)
 - **Email**: privacy@matchbookdata.com
-- **Country**: United States
-- **Type**: Marketing
-- **Optery Support Tier**: Core
-
----
-
-<a id='20560'></a>
-## MCH
-
-### Information
-- **Website**: [https://www.mchdata.com/](https://www.mchdata.com/)
-- **Email**: privacy@mchdata.com
 - **Country**: United States
 - **Type**: Marketing
 - **Optery Support Tier**: Core
@@ -5128,6 +5127,22 @@ MugshotLook.com is a website providing social media photos and account informati
 - **Type**: People Search Site
 - **Privacy Score**: 4
 - **Average Removal Days**: 7
+- **Shows Family Names**: Yes
+- **Optery Support Tier**: Extended
+
+---
+
+<a id='21348'></a>
+## MaineCourtRecords.us
+
+### Information
+- **Website**: [https://mainecourtrecords.us/](https://mainecourtrecords.us/)
+- **Opt-Out URL**: [https://mainecourtrecords.us/optout/](https://mainecourtrecords.us/optout/)
+- **Email**: privacy@courtrecords.us
+- **Country**: United States
+- **Type**: People Search Site
+- **Privacy Score**: 7
+- **Average Removal Days**: 4
 - **Shows Family Names**: Yes
 - **Optery Support Tier**: Extended
 
@@ -5344,22 +5359,6 @@ Melissa.com is a company specializing in business and consumer data verification
 
 ---
 
-<a id='20552'></a>
-## Merkle
-
-### Information
-- **Website**: [https://www.merkle.com/](https://www.merkle.com/)
-- **Opt-Out URL**: [https://www.merkle.com/en/privacy-policy/data-product-privacy-notice/control-your-personal-information.html](https://www.merkle.com/en/privacy-policy/data-product-privacy-notice/control-your-personal-information.html)
-- **Email**: americas.dpo@dentsu.com
-- **Country**: ALL
-- **Type**: Marketing
-- **Privacy Score**: 7
-- **Average Removal Days**: 45
-- **Shows Family Names**: No
-- **Optery Support Tier**: Ultimate
-
----
-
 <a id='16814'></a>
 ## Michigan Arrests
 
@@ -5498,22 +5497,6 @@ These days, it seems like everything is moving online. There are many advantages
 
 ---
 
-<a id='21343'></a>
-## MinnesotaCourtRecords.us
-
-### Information
-- **Website**: [https://minnesotacourtrecords.us/](https://minnesotacourtrecords.us/)
-- **Opt-Out URL**: [https://minnesotacourtrecords.us/optout/](https://minnesotacourtrecords.us/optout/)
-- **Email**: privacy@courtrecords.us
-- **Country**: United States
-- **Type**: People Search Site
-- **Privacy Score**: 7
-- **Average Removal Days**: 4
-- **Shows Family Names**: Yes
-- **Optery Support Tier**: Extended
-
----
-
 <a id='16826'></a>
 ## Mississippi Arrests
 
@@ -5602,6 +5585,22 @@ These days, it seems like everything is moving online. There are many advantages
 
 ---
 
+<a id='23538'></a>
+## MoneyBot5000
+
+### Information
+- **Website**: [https://www.moneybot5000.com/](https://www.moneybot5000.com/)
+- **Opt-Out URL**: [https://www.moneybot5000.com/svc/optout/search/optouts](https://www.moneybot5000.com/svc/optout/search/optouts)
+- **Email**: support@moneybot5000.com
+- **Country**: United States
+- **Type**: People Search Site
+- **Privacy Score**: 7
+- **Average Removal Days**: 30
+- **Shows Family Names**: Yes
+- **Optery Support Tier**: Extended
+
+---
+
 <a id='16812'></a>
 ## Montana Arrests
 
@@ -5613,6 +5612,22 @@ These days, it seems like everything is moving online. There are many advantages
 - **Type**: People Search Site
 - **Privacy Score**: 4
 - **Average Removal Days**: 7
+- **Shows Family Names**: Yes
+- **Optery Support Tier**: Extended
+
+---
+
+<a id='21341'></a>
+## MontanaCourtRecords.us
+
+### Information
+- **Website**: [https://montanacourtrecords.us/](https://montanacourtrecords.us/)
+- **Opt-Out URL**: [https://montanacourtrecords.us/optout/](https://montanacourtrecords.us/optout/)
+- **Email**: privacy@courtrecords.us
+- **Country**: United States
+- **Type**: People Search Site
+- **Privacy Score**: 7
+- **Average Removal Days**: 4
 - **Shows Family Names**: Yes
 - **Optery Support Tier**: Extended
 
@@ -5714,6 +5729,7 @@ MyLife.com is a website that offers online reputation profile management. Indivi
 - **Type**: People Search Site
 - **Privacy Score**: 3
 - **Average Removal Days**: 45
+- **Shows Family Names**: Yes
 - **Optery Support Tier**: Core
 
 ---
@@ -5816,22 +5832,6 @@ NeighborWho is a data broker that falls under the umbrella of Beenverified. They
 
 ---
 
-<a id='21347'></a>
-## NevadaCourtRecords.us
-
-### Information
-- **Website**: [https://nevadacourtrecords.us/](https://nevadacourtrecords.us/)
-- **Opt-Out URL**: [https://nevadacourtrecords.us/optout/](https://nevadacourtrecords.us/optout/)
-- **Email**: privacy@courtrecords.us
-- **Country**: United States
-- **Type**: People Search Site
-- **Privacy Score**: 7
-- **Average Removal Days**: 4
-- **Shows Family Names**: Yes
-- **Optery Support Tier**: Extended
-
----
-
 <a id='16811'></a>
 ## New Hampshire Arrests
 
@@ -5909,6 +5909,22 @@ NeighborWho is a data broker that falls under the umbrella of Beenverified. They
 - **Average Removal Days**: 5
 - **Shows Family Names**: Yes
 - **Optery Support Tier**: Ultimate
+
+---
+
+<a id='21351'></a>
+## NewHampshireCourtRecords.us
+
+### Information
+- **Website**: [https://newhampshirecourtrecords.us/](https://newhampshirecourtrecords.us/)
+- **Opt-Out URL**: [https://newhampshirecourtrecords.us/optout/](https://newhampshirecourtrecords.us/optout/)
+- **Email**: privacy@courtrecords.us
+- **Country**: United States
+- **Type**: People Search Site
+- **Privacy Score**: 7
+- **Average Removal Days**: 4
+- **Shows Family Names**: Yes
+- **Optery Support Tier**: Extended
 
 ---
 
@@ -6117,6 +6133,21 @@ NeighborWho is a data broker that falls under the umbrella of Beenverified. They
 - **Average Removal Days**: 4
 - **Shows Family Names**: Yes
 - **Optery Support Tier**: Extended
+
+---
+
+<a id='21434'></a>
+## NotariesCalifornia.com
+
+### Information
+- **Website**: [http://notariescalifornia.com/](http://notariescalifornia.com/)
+- **Opt-Out URL**: [http://www.notariescalifornia.com/about](http://www.notariescalifornia.com/about)
+- **Email**: contact@licensedata.org
+- **Country**: United States
+- **Type**: People Search Site
+- **Privacy Score**: 4
+- **Average Removal Days**: 10
+- **Optery Support Tier**: Core
 
 ---
 
@@ -6725,25 +6756,6 @@ PeopleByName is a provider of reverse phone number lookup services in the US and
 
 ---
 
-<a id='21409'></a>
-## PeopleByName
-
-### Description
-PeopleByName is a provider of reverse phone number lookup services in the US and Canada. With over a billion records in its database, it can provide you with a full report on almost any phone number. The information that’s associated with the phone number includes its full name, address, and history. With the amount of sensitive information they share online, it is obvious that this information is exposed to possibilities of fraud and cybercrimes. For this reason, it is crucial that we limit the amount of data that is publicly available online in order to reduce the risk of privacy abuses.
-
-### Information
-- **Website**: [http://www.peoplebyname.com/](http://www.peoplebyname.com/)
-- **Opt-Out URL**: [http://www.peoplebyname.com/remove.php](http://www.peoplebyname.com/remove.php)
-- **Email**: support@peoplebyname.com
-- **Country**: United States
-- **Type**: People Search Site
-- **Privacy Score**: 4
-- **Average Removal Days**: 20
-- **Shows Family Names**: Yes
-- **Optery Support Tier**: Core
-
----
-
 <a id='21054'></a>
 ## PeopleDataLabs
 
@@ -6991,6 +7003,18 @@ PeopleWhiz is an online people search data broker. PeopleWhiz accesses millions 
 
 ---
 
+<a id='20519'></a>
+## PeoplefindersDaaS
+
+### Information
+- **Website**: [https://www.peoplefindersdaas.com/](https://www.peoplefindersdaas.com/)
+- **Email**: privacy@peoplefindersdaas.com
+- **Country**: United States
+- **Type**: Marketing
+- **Optery Support Tier**: Core
+
+---
+
 <a id='20741'></a>
 ## Persistent.id
 
@@ -7054,34 +7078,6 @@ Persopo is a people search engine that aggregates public data to provide informa
 
 ---
 
-<a id='16853'></a>
-## Phone Lookup California
-
-### Information
-- **Website**: [https://www.californiaphonelookup.com/](https://www.californiaphonelookup.com/)
-- **Opt-Out URL**: [https://www.californiaphonelookup.com/contact](https://www.californiaphonelookup.com/contact)
-- **Country**: United States
-- **Type**: People Search Site
-- **Privacy Score**: 4
-- **Average Removal Days**: 7
-- **Optery Support Tier**: Extended
-
----
-
-<a id='16854'></a>
-## Phone Lookup Florida
-
-### Information
-- **Website**: [https://www.floridaphonelookup.com/](https://www.floridaphonelookup.com/)
-- **Opt-Out URL**: [https://www.floridaphonelookup.com/contact](https://www.floridaphonelookup.com/contact)
-- **Country**: United States
-- **Type**: People Search Site
-- **Privacy Score**: 4
-- **Average Removal Days**: 7
-- **Optery Support Tier**: Extended
-
----
-
 <a id='21438'></a>
 ## PhoneBooks.com
 
@@ -7095,6 +7091,22 @@ Persopo is a people search engine that aggregates public data to provide informa
 - **Average Removal Days**: 10
 - **Shows Family Names**: No
 - **Optery Support Tier**: Ultimate
+
+---
+
+<a id='21338'></a>
+## PhoneNumberInfo.us
+
+### Information
+- **Website**: [https://phonenumberinfo.us/](https://phonenumberinfo.us/)
+- **Opt-Out URL**: [https://phonenumberinfo.us/contact.php](https://phonenumberinfo.us/contact.php)
+- **Email**: info@phonenumberinfo.us
+- **Country**: United States
+- **Type**: People Search Site
+- **Privacy Score**: 6
+- **Average Removal Days**: 45
+- **Shows Family Names**: Yes
+- **Optery Support Tier**: Extended
 
 ---
 
@@ -7341,6 +7353,22 @@ Private Records is a provider of public records information. Founded in 2020, it
 - **Country**: United States
 - **Type**: Marketing
 - **Optery Support Tier**: Core
+
+---
+
+<a id='20843'></a>
+## PropertyReach
+
+### Information
+- **Website**: [https://www.propertyreach.com](https://www.propertyreach.com)
+- **Opt-Out URL**: [https://www.propertyreach.com/privacy-rights](https://www.propertyreach.com/privacy-rights)
+- **Email**: compliance@propertyreach.com
+- **Country**: United States
+- **Type**: Marketing
+- **Privacy Score**: 9
+- **Average Removal Days**: 15
+- **Shows Family Names**: No
+- **Optery Support Tier**: Extended
 
 ---
 
@@ -7882,21 +7910,6 @@ RecordsFinder is a powerful search engine that scans millions of public records.
 
 ---
 
-<a id='21319'></a>
-## Redfin
-
-### Information
-- **Website**: [https://www.redfin.com/](https://www.redfin.com/)
-- **Email**: privacy@redfin.com
-- **Country**: United States
-- **Type**: People Search Site
-- **Privacy Score**: 7
-- **Average Removal Days**: 45
-- **Shows Family Names**: No
-- **Optery Support Tier**: Core
-
----
-
 <a id='20828'></a>
 ## Redi Data
 
@@ -8081,22 +8094,6 @@ Revealphoneowner.com collects personal information without the knowledge or cons
 
 ---
 
-<a id='21337'></a>
-## RhodeIslandCourtRecord.us
-
-### Information
-- **Website**: [https://rhodeislandcourtrecords.us/](https://rhodeislandcourtrecords.us/)
-- **Opt-Out URL**: [https://rhodeislandcourtrecords.us/optout/](https://rhodeislandcourtrecords.us/optout/)
-- **Email**: privacy@courtrecords.us
-- **Country**: United States
-- **Type**: People Search Site
-- **Privacy Score**: 7
-- **Average Removal Days**: 4
-- **Shows Family Names**: Yes
-- **Optery Support Tier**: Extended
-
----
-
 <a id='21125'></a>
 ## RocketReach
 
@@ -8113,6 +8110,22 @@ RocketReach.co provides users with real time contact information for 700 million
 - **Type**: B2B Lead Generation
 - **Average Removal Days**: 45
 - **Optery Support Tier**: Ultimate
+
+---
+
+<a id='20822'></a>
+## Round Sky
+
+### Information
+- **Website**: [https://www.roundsky.com/](https://www.roundsky.com/)
+- **Opt-Out URL**: [https://www.roundsky.com/supplemental-privacy-notice/contact.php](https://www.roundsky.com/supplemental-privacy-notice/contact.php)
+- **Email**: legal@roundsky.com
+- **Country**: United States
+- **Type**: Marketing
+- **Privacy Score**: 6
+- **Average Removal Days**: 45
+- **Shows Family Names**: No
+- **Optery Support Tier**: Core
 
 ---
 
@@ -8302,22 +8315,6 @@ Search Public Records is a people search site that displays personal information
 - **Type**: People Search Site
 - **Privacy Score**: 4
 - **Average Removal Days**: 10
-- **Shows Family Names**: Yes
-- **Optery Support Tier**: Extended
-
----
-
-<a id='21428'></a>
-## SearchSystems Public Records
-
-### Information
-- **Website**: [http://publicrecords.searchsystems.net/](http://publicrecords.searchsystems.net/)
-- **Opt-Out URL**: [https://publicrecords.searchsystems.net/opt-out.php](https://publicrecords.searchsystems.net/opt-out.php)
-- **Email**: webmaster@searchsystems.net
-- **Country**: United States
-- **Type**: People Search Site
-- **Privacy Score**: 7
-- **Average Removal Days**: 5
 - **Shows Family Names**: Yes
 - **Optery Support Tier**: Extended
 
@@ -8628,22 +8625,6 @@ SocialCatfish is an online dating inquiry service that verifies people are who t
 
 ---
 
-<a id='21325'></a>
-## SouthCarolinaCourtRecords.us
-
-### Information
-- **Website**: [https://southcarolinacourtrecords.us/](https://southcarolinacourtrecords.us/)
-- **Opt-Out URL**: [https://southcarolinacourtrecords.us/optout/](https://southcarolinacourtrecords.us/optout/)
-- **Email**: privacy@courtrecords.us
-- **Country**: United States
-- **Type**: People Search Site
-- **Privacy Score**: 7
-- **Average Removal Days**: 4
-- **Shows Family Names**: Yes
-- **Optery Support Tier**: Extended
-
----
-
 <a id='21029'></a>
 ## SouthCarolinaPublicRecords.com
 
@@ -8655,6 +8636,22 @@ SocialCatfish is an online dating inquiry service that verifies people are who t
 - **Privacy Score**: 4
 - **Average Removal Days**: 14
 - **Optery Support Tier**: Ultimate
+
+---
+
+<a id='21327'></a>
+## SouthDakotaCourtRecords.us
+
+### Information
+- **Website**: [https://southdakotacourtrecords.us/](https://southdakotacourtrecords.us/)
+- **Opt-Out URL**: [https://southdakotacourtrecords.us/optout/](https://southdakotacourtrecords.us/optout/)
+- **Email**: privacy@courtrecords.us
+- **Country**: United States
+- **Type**: People Search Site
+- **Privacy Score**: 7
+- **Average Removal Days**: 4
+- **Shows Family Names**: Yes
+- **Optery Support Tier**: Extended
 
 ---
 
@@ -8714,6 +8711,26 @@ Speedeon Data is a data focused marketing solutions company. Speedeon tracks dat
 - **Privacy Score**: 7
 - **Average Removal Days**: 30
 - **Shows Family Names**: No
+- **Optery Support Tier**: Core
+
+---
+
+<a id='17279'></a>
+## Spokeo
+
+### Description
+Spokeo is a data broker that displays the wealth information, contact information, social media accounts, location history, criminal records, names of relatives and other personal details of individuals. Spokeo collects personal information from hundreds of millions of historical records, property records, consumer and business records, court records, and social networks. A simple search on their site will grant you access to the detailed personal information of almost anyone. If you are concerned about someone viewing your personal information on the Spokeo website, opt out by following the step-by-step instructions below.
+
+### Information
+- **Website**: [https://www.spokeo.com/](https://www.spokeo.com/)
+- **Opt-Out URL**: [https://www.spokeo.com/optout](https://www.spokeo.com/optout)
+- **Opt-Out Guide**: [https://www.optery.com/spokeo-how-to-opt-out-and-remove-yourself-from-spokeo-step-by-step-instructions/](https://www.optery.com/spokeo-how-to-opt-out-and-remove-yourself-from-spokeo-step-by-step-instructions/)
+- **Email**: privacy@spokeo.com
+- **Country**: United States
+- **Type**: People Search Site
+- **Privacy Score**: 9
+- **Average Removal Days**: 1
+- **Shows Family Names**: Yes
 - **Optery Support Tier**: Core
 
 ---
@@ -8985,6 +9002,26 @@ StateRecords.org is a website that allows people to view public records of indiv
 
 ---
 
+<a id='21406'></a>
+## Telephone Directories
+
+### Description
+Telephone Directories is a people search engine. Users can anonymously search over 500 million public records for the phone numbers, location history, birthday, names of family members, email addresses and home addresses of individuals on the Telephone Directories website.
+
+### Information
+- **Website**: [https://www.telephonedirectories.us/](https://www.telephonedirectories.us/)
+- **Opt-Out URL**: [https://www.telephonedirectories.us/Edit_Records](https://www.telephonedirectories.us/Edit_Records)
+- **Opt-Out Guide**: [https://www.optery.com/telephone-directories-how-to-opt-out-of-telephone-directories-step-by-step-instructions/](https://www.optery.com/telephone-directories-how-to-opt-out-of-telephone-directories-step-by-step-instructions/)
+- **Email**: support@telephonedirectories.us
+- **Country**: United States
+- **Type**: People Search Site
+- **Privacy Score**: 7
+- **Average Removal Days**: 1
+- **Shows Family Names**: Yes
+- **Optery Support Tier**: Core
+
+---
+
 <a id='16803'></a>
 ## Tennessee Arrests
 
@@ -9130,6 +9167,22 @@ ThatsThem is a people search site where you can find out the details of individu
 
 ---
 
+<a id='24061'></a>
+## The Yankee Group
+
+### Information
+- **Website**: [https://www.yankeegroup.com/](https://www.yankeegroup.com/)
+- **Opt-Out URL**: [https://www.yankeegroup.com/optout](https://www.yankeegroup.com/optout)
+- **Email**: support@yankeegroup.com
+- **Country**: United States
+- **Type**: Marketing
+- **Privacy Score**: 7
+- **Average Removal Days**: 30
+- **Shows Family Names**: Yes
+- **Optery Support Tier**: Extended
+
+---
+
 <a id='20774'></a>
 ## Thomson Reuters
 
@@ -9252,6 +9305,27 @@ TruthFinder.com is a people search site. Social media profiles, personal photos,
 
 ---
 
+<a id='17298'></a>
+## TruthFinder
+
+### Description
+TruthFinder.com is a people search site. Social media profiles, personal photos, police records, background checks, civil judgments, education and employment records, financial assets and liabilities, names of neighbors and relatives, property records, birth and death records and more can be accessed from millions of public records. A simple name or phone number search on the TruthFinder website displays personal information.
+
+### Information
+- **Website**: [https://www.truthfinder.com/](https://www.truthfinder.com/)
+- **Opt-Out URL**: [https://www.truthfinder.com/privacy-center](https://www.truthfinder.com/privacy-center)
+- **Opt-Out Guide**: [https://www.optery.com/truthfinder-how-to-opt-out-and-remove-yourself-from-truthfinder-step-by-step-instructions/](https://www.optery.com/truthfinder-how-to-opt-out-and-remove-yourself-from-truthfinder-step-by-step-instructions/)
+- **Opt-Out Video Guide**: [https://www.youtube.com/watch?v=jkeH5yEnC-w](https://www.youtube.com/watch?v=jkeH5yEnC-w)
+- **Email**: privacy@truthfinder.com
+- **Country**: United States
+- **Type**: People Search Site
+- **Privacy Score**: 7
+- **Average Removal Days**: 5
+- **Shows Family Names**: Yes
+- **Optery Support Tier**: Ultimate
+
+---
+
 <a id='18599'></a>
 ## TruthRecord
 
@@ -9309,6 +9383,21 @@ Tunnl specializes in audience intelligence, audience identification, custom audi
 - **Email**: privacyofficer@datacomplianceportal.com
 - **Country**: United States
 - **Type**: Marketing
+- **Optery Support Tier**: Core
+
+---
+
+<a id='22188'></a>
+## US Marketing Group
+
+### Information
+- **Website**: [https://usmarketinggrp.com/](https://usmarketinggrp.com/)
+- **Opt-Out URL**: [https://usmarketinggrp.com/privacy-policy/](https://usmarketinggrp.com/privacy-policy/)
+- **Email**: PRIVACY@usmarketinggrp.com
+- **Country**: United States
+- **Type**: Marketing
+- **Privacy Score**: 7
+- **Average Removal Days**: 30
 - **Optery Support Tier**: Core
 
 ---
@@ -9514,6 +9603,27 @@ UnMask is a people search website that offers its users a wide range of informat
 
 ---
 
+<a id='17299'></a>
+## Unmask
+
+### Description
+UnMask is a people search website that offers its users a wide range of information about individuals. Not only do they provide basic information like contact records and educational history, but their data also includes criminal and court records, property ownership records, and professional license records. They source this information from public government records and other open sources. This information can be useful in a background search, but if you’re the one whose data is exposed online, it can lead to serious safety risks. For millions of people, this personal and even confidential information is accessible online without much effort on the part of strangers.
+
+### Information
+- **Website**: [https://unmask.com/](https://unmask.com/)
+- **Opt-Out URL**: [https://unmask.com/opt-out/](https://unmask.com/opt-out/)
+- **Opt-Out Guide**: [https://www.optery.com/unmask-how-to-opt-out-of-unmask-step-by-step-instructions/](https://www.optery.com/unmask-how-to-opt-out-of-unmask-step-by-step-instructions/)
+- **Opt-Out Video Guide**: [https://www.youtube.com/watch?v=6nzj1B8a1k0](https://www.youtube.com/watch?v=6nzj1B8a1k0)
+- **Email**: contact@unmask.com
+- **Country**: United States
+- **Type**: People Search Site
+- **Privacy Score**: 5
+- **Average Removal Days**: 45
+- **Shows Family Names**: Yes
+- **Optery Support Tier**: Extended
+
+---
+
 <a id='21124'></a>
 ## UpLead
 
@@ -9587,6 +9697,22 @@ UnMask is a people search website that offers its users a wide range of informat
 - **Average Removal Days**: 7
 - **Shows Family Names**: Yes
 - **Optery Support Tier**: Ultimate
+
+---
+
+<a id='20515'></a>
+## Valassis RRD
+
+### Information
+- **Website**: [https://www.rrd.com/](https://www.rrd.com/)
+- **Opt-Out URL**: [https://privacyportal.onetrust.com/webform/45e4be25-919b-483f-9f95-12809576a2b3/6e633594-9a81-48bb-97ab-6fb29bf46019](https://privacyportal.onetrust.com/webform/45e4be25-919b-483f-9f95-12809576a2b3/6e633594-9a81-48bb-97ab-6fb29bf46019)
+- **Email**: DataPrivacy@rrd.com
+- **Country**: ALL
+- **Type**: Marketing
+- **Privacy Score**: 8
+- **Average Removal Days**: 30
+- **Shows Family Names**: No
+- **Optery Support Tier**: Core
 
 ---
 
@@ -10420,6 +10546,18 @@ e.Republic is an events, media and data company. They have 300,000 active contac
 - **Website**: [https://www.iwave.com/](https://www.iwave.com/)
 - **Email**: privacy@iwave.com
 - **Country**: United States
+- **Type**: Marketing
+- **Optery Support Tier**: Core
+
+---
+
+<a id='20684'></a>
+## illumin
+
+### Information
+- **Website**: [https://illumin.com/](https://illumin.com/)
+- **Email**: privacy@illumin.com
+- **Country**: Belgium,Bulgaria,Croatia,Cyprus,Denmark,Estonia,Finland,France,Germany,Hungary,Ireland,Italy,Latvia,Malta,Netherlands,Iceland,Austria,Czech Republic,Greece,Lithuania,Poland,Portugal,Romania,Slovakia,Slovenia,Spain,Sweden,United Kingdom,Liechtenstein,Norway,United States
 - **Type**: Marketing
 - **Optery Support Tier**: Core
 
