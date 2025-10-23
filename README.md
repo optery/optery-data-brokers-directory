@@ -35,27 +35,6 @@ We provide the data in multiple formats to suit different use cases:
 - **Best for**: Human-readable documentation, GitHub browsing
 - **Format**: Organized markdown with table of contents
 
-## Data Schema
-
-Each data broker entry includes the following fields:
-
-| Field | Type | Description |
-|-------|------|-------------|
-| `id` | number | Unique identifier |
-| `title` | string | Data broker name |
-| `website` | string | Official website URL |
-| `opt_out_url` | string | Direct link to opt-out page |
-| `opt_out_guide` | string | Step-by-step opt-out instructions |
-| `email` | string | Contact email |
-| `phone` | string | Contact phone number |
-| `address` | string | Physical address |
-| `description` | string | Description of the broker |
-| `data_collection_methods` | string | How they collect data |
-| `data_sharing_methods` | string | How they share data |
-| `data_categories_collected` | string | Types of data collected |
-| `ccpa_covered` | string | CCPA coverage (yes/no) |
-| `gdpr_covered` | string | GDPR coverage (yes/no) |
-
 ## Use Cases
 
 This data is valuable for:
