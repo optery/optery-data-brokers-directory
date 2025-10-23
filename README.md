@@ -45,7 +45,7 @@ This data is valuable for:
 
 ## Updates
 
-This directory is regularly updated. Check back regularly or watch this repository for updates.
+This directory is regularly updated. Check back or watch this repository for updates.
 
 ## License
 
