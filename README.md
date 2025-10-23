@@ -6,7 +6,7 @@ Welcome to Optery's open-source directory of data brokers, the largest of its ki
 
 This directory contains comprehensive information about data brokers that Optery covers, including:
 
-- Contact information (websites, emails, phone numbers, addresses)
+- Contact information (websites, emails)
 - Opt-out URLs and step-by-step opt-out guides
 - Data collection and sharing methods
 - Categories of data collected
